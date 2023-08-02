@@ -1,0 +1,11 @@
+*{
+    background-color: black;
+    color:ghostwhite;
+    border: 2px solid red;
+    border-radius: 50%;
+    text-shadow: 0 0 15px blue;
+    text-shadow: 0 0 15px ghostwhite;
+    font-style: italic;
+    padding: 10px;
+    margin: 10px;
+}
